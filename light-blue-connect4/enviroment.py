@@ -2,7 +2,6 @@
 # Description: Defines the enviroment for the connect 4 game.
 
 import random
-import player
 import pygame as pg
 import time
 
