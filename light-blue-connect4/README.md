@@ -1,4 +1,5 @@
 ## This project adapts a Deep-Q-Learning model from "the snake game" to play connect 4
+![alt text](https://github.com/JonathanBergen/sattler-coursework/blob/f49a0238f7f87536deeac47591bfed98119856fa/light-blue-connect4/test_ims/game.png)
 ### Added:
 - enviroment.py: Added Connect 4 environment with game rules, helper functions, and both PyGame and terminal-based visualiztions
 - Image-based real-time model training analysis with matplotlib
